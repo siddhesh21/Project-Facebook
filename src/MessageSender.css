@@ -38,7 +38,7 @@
 
 .messageSender__bottom {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .messageSender__option {
